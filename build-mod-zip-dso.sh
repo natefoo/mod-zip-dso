@@ -5,7 +5,7 @@ set -euo pipefail
 nginx_version='1.12.2'
 upload_module_version='2.255-nfs'
 auth_pam_module_version='1.4'
-mod_zip_version='1.2.0'
+mod_zip_version='1.3.0'
 gid=$(id -g)
 uid=$(id -u)
 
